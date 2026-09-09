@@ -25,4 +25,4 @@ setup(
     author_email="aryanmait29@gmail.com",
     packages=find_packages(),
     install_requires=get_requirements("requirements.txt"),
-)
+) 
