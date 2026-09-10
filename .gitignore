@@ -4,3 +4,4 @@ __pycache__/
 .env
 *.egg-info/
 logs/
+notebook/catboost_info/
